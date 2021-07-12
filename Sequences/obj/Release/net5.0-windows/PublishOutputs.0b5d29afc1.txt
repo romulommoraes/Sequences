@@ -1,0 +1,5 @@
+C:\Users\Rômulo Maciel\source\repos\Sequences\Sequences\bin\publish\Sequences.exe
+C:\Users\Rômulo Maciel\source\repos\Sequences\Sequences\bin\publish\Sequences.dll
+C:\Users\Rômulo Maciel\source\repos\Sequences\Sequences\bin\publish\Sequences.deps.json
+C:\Users\Rômulo Maciel\source\repos\Sequences\Sequences\bin\publish\Sequences.runtimeconfig.json
+C:\Users\Rômulo Maciel\source\repos\Sequences\Sequences\bin\publish\Sequences.pdb

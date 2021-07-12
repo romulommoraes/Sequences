@@ -1,0 +1,5 @@
+C:\Users\Rômulo Maciel\source\repos\DNATools\DNATools\bin\publish\DNATools.exe
+C:\Users\Rômulo Maciel\source\repos\DNATools\DNATools\bin\publish\DNATools.dll
+C:\Users\Rômulo Maciel\source\repos\DNATools\DNATools\bin\publish\DNATools.deps.json
+C:\Users\Rômulo Maciel\source\repos\DNATools\DNATools\bin\publish\DNATools.runtimeconfig.json
+C:\Users\Rômulo Maciel\source\repos\DNATools\DNATools\bin\publish\DNATools.pdb
